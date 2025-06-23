@@ -16,5 +16,5 @@ Excel | Power Query | SQL | Power BI (soon) | Git & GitHub
 - 🧹 Raw Data Cleaning Projects (Coming soon)
 
 📌 **Let’s Connect**  
-[LinkedIn](#) | [Email](#) | Portfolio (coming soon)
+[LinkedIn](www.linkedin.com/in/clintdozie) | [Email](alexisclint90@gmail.com) | Portfolio (coming soon)
 
