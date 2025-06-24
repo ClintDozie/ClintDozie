@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Clinton Ibe
+# 👋 Hi, I'm Clint
 
 🎓 A physiologist turned aspiring data analyst, with a passion for using data to improve healthcare systems — especially in the field of HIV/AIDS and public health.
 
