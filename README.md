@@ -11,8 +11,8 @@
 Excel | Power Query | SQL | Power BI (soon) | Git & GitHub
 
 💼 **Portfolio Projects**:
-- 📊 [Hospital Admissions Dashboard](https://github.com/ClintDozie/Excel-Projects) *(Excel visualization)*
 - 🔍 [Sales & Profit Dashboard](https://github.com/ClintDozie/Excel-Projects) *(Excel visualization)*
+- 📊 [Hospital Admissions Dashboard](https://github.com/ClintDozie/Excel-Projects) *(Excel visualization)*
 - 🧹 Raw Data Cleaning Projects (Coming soon)
 
 📌 **Let’s Connect**  
