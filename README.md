@@ -2,13 +2,13 @@
 
 🎓 A physiologist turned aspiring data analyst, with a passion for using data to improve healthcare systems — especially in the field of HIV/AIDS and public health.
 
-🔬 Currently interning at Nigeria’s National Agency for the Control of AIDS (NACA), I’m building skills in:
-- Data Analysis (Excel, SQL, Power Query)
-- Data Cleaning & Transformation
+🔬 Currently undergoing one year  National service scheme at Nigeria’s National Agency for the Control of AIDS (NACA), I’m building skills in:
+- Data Analysis (Excel, SQL, SPSS, Python)
+- Data Cleaning & Transformation (VBA, PowerQuery)
 - Health Informatics & Research
 
 🛠️ **Tools I Use**:  
-Excel | Power Query | SQL | Power BI (soon) | Git & GitHub
+Excel | SQL | SPSS | Power BI | Python (soon) | Git & GitHub
 
 💼 **Portfolio Projects**:
 - 🔍 [Sales & Profit Dashboard](https://github.com/ClintDozie/Excel-Projects) *(Excel visualization)*
