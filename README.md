@@ -1,19 +1,23 @@
-# 👋 Hi, I'm Clint
+# 👋 Hi, I'm Clinton
 
-🎓 A physiologist turned aspiring data analyst, with a passion for using data to improve healthcare systems — especially in the field of HIV/AIDS and public health.
+🎓 A Physiologist turned Data Analyst, with a passion for using data to improve healthcare systems — especially in the field of HIV/AIDS and public health, and a mission to help uncover more insights in public health space, creating meaningful impact.
 
-🔬 Currently undergoing one year  National service scheme at Nigeria’s National Agency for the Control of AIDS (NACA), I’m building skills in:
+🔬 Currently undergoing one year  National Youth Service scheme at Nigeria’s National Agency for the Control of AIDS (NACA), I’m building skills in:
 - Data Analysis (Excel, SQL, SPSS, Python)
-- Data Cleaning & Transformation (VBA, PowerQuery)
+- Data Cleaning and Transformation (VBA, PowerQuery)
+- Data Reporting and Presentation (Ms-Powerpoint)
 - Health Informatics & Research
 
 🛠️ **Tools I Use**:  
-Excel | SQL | SPSS | Power BI | Python (soon) | Git & GitHub
+Excel | SQL | SPSS | Power BI | Python (soon) | Git & GitHub | Powerpoint
 
 💼 **Portfolio Projects**:
 - 🔍 [Sales & Profit Dashboard](https://github.com/ClintDozie/Excel-Projects) *(Excel visualization)*
 - 📊 [Hospital Admissions Dashboard](https://github.com/ClintDozie/Excel-Projects) *(Excel visualization)*
-- 🧹 Raw Data Cleaning Projects (Coming soon)
+- 📉 [HIV Incidence count, ART coverage and Mortality count](https://github.com/ClintDozie/Excel-Projects) *(Analysis and visualization)*
+- 📈 [HIV Prevalence among Nigerian adults](https://github.com/ClintDozie/Excel-Projects) *(Analysis and visualization)*
+- 📂 More Health Analytics Projects (Coming soon)
+  
 
 📌 **Let’s Connect**  
 [LinkedIn](www.linkedin.com/in/clintdozie) | [Email](alexisclint90@gmail.com) | Portfolio (coming soon)
