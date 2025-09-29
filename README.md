@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Clinton
+# 👋 Hi, I'm Clinton chidozie
 
 🎓 A Physiologist turned Data Analyst, with a passion for using data to improve healthcare systems — especially in the field of HIV/AIDS and public health, and a mission to help uncover more insights in public health space, creating meaningful impact.
 
