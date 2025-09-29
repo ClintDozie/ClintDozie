@@ -15,7 +15,7 @@ Excel | SQL | SPSS | Power BI | Python (soon) | Git & GitHub | Powerpoint
 - 🔍 [Sales & Profit Dashboard](https://github.com/ClintDozie/Excel-Projects) *(Excel visualization)*
 - 📊 [Hospital Admissions Dashboard](https://github.com/ClintDozie/Excel-Projects) *(Excel visualization)*
 - 📉 [HIV Incidence count, ART coverage and Mortality count](https://github.com/ClintDozie/Excel-Projects/tree/main/HIV%20Incidence%20count%2C%20ART%20coverage%20and%20Mortality%20rate%20in%20Nigeria%20(2010%20-%202024)) *(Analysis and visualization)*
-- 📈 [HIV Prevalence among Nigerian adults](https://github.com/ClintDozie/Excel-Projects) *(Analysis and visualization)*
+- 📈 [HIV Prevalence among Nigerian adults](https://github.com/ClintDozie/Excel-Projects/tree/main/HIV%20Prevalence%20rate%20amongst%20young%20adults%20in%20Nigeria%20(2015%20-%202025)) *(Analysis and visualization)*
 - 📂 More Health Analytics Projects (Coming soon)
   
 
